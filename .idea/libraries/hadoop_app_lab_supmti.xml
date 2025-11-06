@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="hadoop-app-lab-supmti">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/hadoop_project/hadoop-app-lab-supmti.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
