@@ -46,10 +46,10 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>edu.supmti.hadoop.HadoopFileStatus</mainClass>
+                            <mainClass>edu.supmti.hadoop.WriteHDFS</mainClass>
                         </manifest>
                     </archive>
-                    <finalName>hadoop-app-lab-supmti</finalName>
+                    <finalName>WriteHDFS</finalName>
                 </configuration>
             </plugin>
         </plugins>
