@@ -1,0 +1,3 @@
+edu\supmti\hadoop\WordCount.class
+edu\supmti\hadoop\IntSumReducer.class
+edu\supmti\hadoop\TokenizerMapper.class
