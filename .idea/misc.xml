@@ -5,6 +5,7 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/lab1/pom.xml" />
+        <option value="$PROJECT_DIR$/lab2-kafka/pom.xml" />
       </list>
     </option>
   </component>
